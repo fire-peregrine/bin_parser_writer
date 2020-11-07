@@ -1,0 +1,17 @@
+# @file      Makefile.common
+# @brief     Common settings for build.
+# @author    fire-peregrine
+# @date      2020/10/24
+# @copyright Copyright (C) peregrine all rights reserved.
+# @license   Released under the MIT License.
+
+# Author
+SOFTWARE_AUTHOR  = fire-peregrine
+
+# Software name
+SOFTWARE_NAME    = bin_parser_writer
+
+# Version
+SOFTWARE_VERSION = v0.0.0.1
+
+
