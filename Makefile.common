@@ -12,6 +12,6 @@ SOFTWARE_AUTHOR  = fire-peregrine
 SOFTWARE_NAME    = bin_parser_writer
 
 # Version
-SOFTWARE_VERSION = v0.0.0.1
+SOFTWARE_VERSION = v0.0.0.2
 
 
