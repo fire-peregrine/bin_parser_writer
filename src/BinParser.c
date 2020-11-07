@@ -547,7 +547,7 @@ static int getSGlm(BinParser *obj, int32_t *val)
     if(status != 0)
         return status;
 
-    /* 符号付きGolombへのマッピング */
+    /* Map to signed golomb. */
     if(tmpVal & 0x1)
         *val = (tmpVal >> 1) + 1;
     else

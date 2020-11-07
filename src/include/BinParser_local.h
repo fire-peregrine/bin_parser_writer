@@ -1,6 +1,6 @@
 /**
  *  @file      BinParser.c
- *  @brief     Binary Parser
+ *  @brief     Binary Parser, header file.
  *  @author    fire-peregrine
  *  @date      2020/11/07
  *  @copyright Copyright (C) fire-peregrine all rights reserved.
